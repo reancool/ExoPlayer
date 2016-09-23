@@ -166,6 +166,10 @@ public class PlayerActivity extends Activity implements OnClickListener, ExoPlay
     if ((Util.SDK_INT <= 23 || player == null)) {
       initializePlayer();
     }
+    if(player!=null){
+      //继续播放
+     player.setPlayWhenReady(true);
+    }
   }
 
   @Override
