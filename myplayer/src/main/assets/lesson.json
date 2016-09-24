@@ -1,0 +1,64 @@
+{
+  "id": 1,
+  "title": "Something about Kiss",
+  "introduction": "You will learn the kissing culture, kisses in different countries, as well as basic kissing skills in social life. It is an interesting lesson that you will know a lot about kissing knowledge that you won't be told in school.",
+  "premium": true,
+  "isLockedToUser": false,
+  "thumb": "http://assets.dev.showmuse.so/lesson/1/kiss_1.jpg",
+  "viewsTotal": 26794,
+  "likesTotal": 26,
+  "commentsTotal": 0,
+  "commentsThreadId": "babg0U",
+  "videoType": "mp4",
+  "videoSource": "sm",
+  "videoUrl": "http://api.dev.showmuse.so/v2/watch/babg0U?access_token=YWRjMTcyYjYyY2EyM2I2MWQyNWU0YjcwNmFkNTA5NTJmMTRlOWRkODJiNTM0YWQ3ZjQ5MzlhNWViYWNiNTc0NQ",
+  "videoContent": "full",
+  "videoDuration": 388.032,
+  "videoDurationTime": "06:28",
+  "shareUrl": "http://web.dev.showmuse.so/s/l/babg0U?ref=1467260",
+  "shareImg": "http://assets.dev.showmuse.so/lesson/1/kiss_1_share.jpg",
+  "teacher": {
+    "id": 1,
+    "uid": "cyvIMbBNwVS",
+    "name": "Jessica C",
+    "avatar": "http://assets.dev.showmuse.so/teacher/1.png",
+    "isFavourite": false
+  },
+  "relatedCourses": [
+    {
+      "id": 153,
+      "title": "What to do if I was claimed “Not Romantic?”?"
+    },
+    {
+      "id": 154,
+      "title": "Love between us is fading , what should I do?"
+    },
+    {
+      "id": 158,
+      "title": "Girlfriend would not “Satisfied”, what do I do?"
+    },
+    {
+      "id": 164,
+      "title": "Make some Love tonight!"
+    }
+  ],
+  "relatedProducts": [],
+  "relatedMaterials": [],
+  "videoQuestions": [
+    {
+      "url": "http://api.dev.showmuse.so/v2/lessons/questions/1.html?access_token=YWRjMTcyYjYyY2EyM2I2MWQyNWU0YjcwNmFkNTA5NTJmMTRlOWRkODJiNTM0YWQ3ZjQ5MzlhNWViYWNiNTc0NQ",
+      "time": 215
+    },
+    {
+      "url": "http://api.dev.showmuse.so/v2/lessons/questions/2.html?access_token=YWRjMTcyYjYyY2EyM2I2MWQyNWU0YjcwNmFkNTA5NTJmMTRlOWRkODJiNTM0YWQ3ZjQ5MzlhNWViYWNiNTc0NQ",
+      "time": 250
+    }
+  ],
+  "isLikedByUser": false,
+  "userWatchStat": {
+    "bookmarks": [],
+    "playPosition": 162,
+    "watchProgress": 65
+  },
+  "subtitle": "http://assets.dev.showmuse.so/lesson/1/zh.srt"
+}
