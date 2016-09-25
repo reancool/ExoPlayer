@@ -28,6 +28,8 @@ buildscript {
 allprojects {
     repositories {
         mavenCentral()
+        //for my player compile
+        jcenter()
     }
     project.ext {
         compileSdkVersion=23
